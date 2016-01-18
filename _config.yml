@@ -1,7 +1,7 @@
 name: Sebastian Scaparro - Doers Dream
 favicon: null
-layout_spectrum: 0.9274384630843997
-typography_spectrum: 0.9942708837334067
+layout_spectrum: 0.6469084520358592
+typography_spectrum: 0.8151173291262239
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.42081072670407593
-  lightness: 0.6814354350790381
-  saturation: 0.8329455982893705
-  rhythmicContrast: 0.3476363883819431
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6717446749098599
+  lightness: 0.8897341939155012
+  saturation: 0.1273183492012322
+  rhythmicContrast: 0.47548957518301904
 purpose: []
