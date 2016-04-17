@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sebastian Scaparro - Doers Dream]]></title>
         <description><![CDATA[Sebastian Scaparro - Doers Dream]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sebastian-scaparro-doers-dream/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 18:20:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 18:21:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sebastian-scaparro-doers-dream/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Business, Start-ups, entrepreneurs and passion</p>]]></description>
-            <link>undefined778f6669-f759-4ac9-b9a3-0debebe443ed/index.html</link>
+            <title><![CDATA[Sebastian Scaparro]]></title>
+            <description><![CDATA[<article><h1>Sebastian Scaparro</h1><p>Business, Start-ups, entrepreneurs and passion</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e37f9513-7f09-4971-80c8-8b7771793539.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sebastian-scaparro-doers-dream/778f6669-f759-4ac9-b9a3-0debebe443ed/index.html</link>
             <guid isPermaLink="false">778f6669-f759-4ac9-b9a3-0debebe443ed</guid>
-            <pubDate>Sun, 17 Apr 2016 18:20:25 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 18:21:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
